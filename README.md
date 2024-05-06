@@ -11,21 +11,25 @@ Bachelors in Biotechnology, Biochemistry, Chemistry
 - SRI CHAITANYA JUNIOR COLLEGE | Kukatpally, Telangana (Jun 2018- 2020)
 Intermediate in Biology, Physics, Chemistry (BiPC)
 
+ 
  ### INTERNSHIP
  - NAME OF THE INSTITUTE: VARIANTS GENETICS
  - DURATION : 15 Days
  - Leveraged an internship at Variants Genetics Institute, gaining valuable hands-on experience in core
  Molecular Biology techniques.
 
+
  ### CO-CURRICULAR ACTIVITIES
  - Participated in Manav Scientific Self Assessment Module (Sep-Oct 2021).
  - Volunteered in International Conclave on AMR.
  - Volunteered in Conference on Diabetes a silent killer.
 
+
  ### EXTRACURRICULAR ACTIVITIES
  - District level Chess tournament 2018 (3rd).
  - Inter college Chess tournament 2022(2nd).
  - Organizer of Non- Tech event in National Level Tech Fest at SRM UNIVERSITY [ INFINITUS].
+
 
  ### HOBBIES & INTERESTS
  - Science outreach and volunteering.
