@@ -12,8 +12,8 @@ Bachelors in Biotechnology, Biochemistry, Chemistry
 Intermediate in Biology, Physics, Chemistry (BiPC)
 
  ### INTERNSHIP
- NAME OF THE INSTITUTE: VARIANTS GENETICS
- DURATION : 15 Days
+ - NAME OF THE INSTITUTE: VARIANTS GENETICS
+ - DURATION : 15 Days
  - Leveraged an internship at Variants Genetics Institute, gaining valuable hands-on experience in core
  Molecular Biology techniques.
 
