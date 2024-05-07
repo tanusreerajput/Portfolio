@@ -25,7 +25,7 @@ Intermediate in Biology, Physics, Chemistry (BiPC)
  - Volunteered in Conference on Diabetes a silent killer.
 
 
-## EXTRA CURRICULR ACTIVITIES
+## EXTRA CURRICULAR ACTIVITIES
  - District level Chess tournament 2018 (3rd).
  - Inter college Chess tournament 2022(2nd).
  - Organizer of Non- Tech event in National Level Tech Fest at SRM UNIVERSITY [ INFINITUS].
