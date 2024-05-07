@@ -1,4 +1,4 @@
-# Biologist
+# Biotechnology Student
 
 ### SKILLS
 Gel Electrophoresis, Homology Modelling, Docking, MS Excel, SDS Page, PCR, Laboratory Safety and Good Laboratory Practices.
